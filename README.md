@@ -31,6 +31,7 @@ cd dateplanner(if not already in dateplanner)
 
 # Backend
 cd api
+
 npm install --save-dev nodemon
 npm init -y;npm install express mongoose cors dotenv axios;
 Setup environment variables:
