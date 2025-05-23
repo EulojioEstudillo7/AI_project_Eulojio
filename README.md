@@ -46,6 +46,7 @@ npm install
 Running Locally
 
 npm run dev
+
 Backend server runs at http://localhost:5000/api
 Frontend runs at http://localhost:5173
 
