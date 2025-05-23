@@ -58,9 +58,13 @@ The list updates dynamically by fetching data from the backend API.
 ## API Endpoints
 
 GET /api/dates - Fetch all date plans.
+
 POST /api/dates - Add a new date plan.
+
 PUT /api/dates/:id
+
 DELETE /api/dates/:id
+
 This project is deployed on Render
 
 The React frontend and Express backend are deployed together.
