@@ -42,7 +42,7 @@ npm init -y;npm install express mongoose cors dotenv axios;
 
 Setup environment variables:
 
-Create a .env file in the api folder and add
+Create a .env file in the api folder and add:
 
 MONGO_URI=your_mongodb_connection_string_here
 Install dependencies:
