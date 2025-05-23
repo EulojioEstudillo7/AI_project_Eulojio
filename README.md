@@ -6,6 +6,7 @@ Deployed on Vercel with a responsive frontend and a RESTful backend API.
 ## Features
 
 Responsive React frontend with a form to add new date plans perfect for planning a date with your significant other 
+
 Express backend exposing four API endpoints (GET,POST,PUT,DELETE).
 
 MongoDB integration for storing and retrieving date plans.
@@ -48,12 +49,15 @@ Install dependencies:
 
 # Frontend
 cd ../client
+
 npm install
+
 Running Locally
 
 npm run dev
 
 Backend server runs at http://localhost:5000/api
+
 Frontend runs at http://localhost:5173
 
 
