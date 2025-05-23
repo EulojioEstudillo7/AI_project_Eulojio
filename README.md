@@ -7,8 +7,11 @@ Deployed on Vercel with a responsive frontend and a RESTful backend API.
 
 Responsive React frontend with a form to add new date plans perfect for planning a date with your significant other 
 Express backend exposing four API endpoints (GET,POST,PUT,DELETE).
+
 MongoDB integration for storing and retrieving date plans.
+
 Frontend communicates with backend using fetch with proper error handling.
+
 Deployed and publicly accessible on Render.
 
 
@@ -33,8 +36,11 @@ cd dateplanner(if not already in dateplanner)
 cd api
 
 npm install --save-dev nodemon
+
 npm init -y;npm install express mongoose cors dotenv axios;
+
 Setup environment variables:
+
 Create a .env file in the api folder and add
 
 MONGO_URI=your_mongodb_connection_string_here
