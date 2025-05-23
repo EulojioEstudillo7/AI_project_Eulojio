@@ -17,10 +17,14 @@ Deployed and publicly accessible on Render.
 
 
 Frontend: React
+
 Backend: Express.js (Node.js)
+
 Database: MongoDB (Atlas)
+
 Deployment: Render
-Getting Started
+
+# Getting Started
 
 ## Prerequisites
 Node.js (v16+ recommended)
